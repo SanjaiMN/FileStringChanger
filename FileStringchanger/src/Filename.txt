@@ -1,0 +1,15 @@
+An important thing you should consider in the futures vs options debate is margins and premiums. You have to pay a margin while entering into future contract, and a premium while buying options.
+
+Margin is the amount you have to pay your broker when you buy futures. Margins vary according to the asset, and are generally a percentage of the total transactions that you make in futures. This is used by the broker as protection against any losses that you may incur while making futures transactions.
+
+Both margins, and premiums can be used for leverage, that is, make large volumes of transactions, in a multiple of the amount paid to the broker or writer. An example should help illustrate this better. Let’s say you want to purchase futures worth Rs 1 crore. If the margin is 10 percent, you only have to pay Rs 10 lakh to the broker. So by paying just Rs 10 lakh, you will be able to enter into transactions worth Rs 1 crore. This increased exposure will increase your chances of making profits.
+
+You can see how advantageous this is when compared to buying stocks. If stock prices rise by 10 percent, you would have made Rs 10 lakh by investing in futures. On the other hand, if you had invested in stocks directly the same investment of Rs 10 lakh would have fetched you only Rs 1 lakh. However, the risks are higher for futures too. If prices fall by 10 percent, your futures investment will stand to lose Rs 10 lakh. If you had invested in stocks, the losses would have been just Rs 1 lakh.
+
+When prices fall, you will get a margin call to deposit more money so that you meet the margin requirements. This is because gains on futures are marked-to-market every day. This means that changes in the value of the futures, whether up or down, are transferred to the account of the futures holder at the end of every trading day. If you don’t pay up the margin call, the broker can sell your position, and this could lead to huge losses for you.
+
+As far as options go, your risks will be considerably less, since you have the choice of not exercising your contract when prices don’t go your way. In that case, the only loss will be the premium that you have paid. So while trading futures vs options, you could say options involve less risk.
+
+In the case of options, while the buyer bears limited risk, the seller’s risk is unlimited. However, the writer does have the option of squaring off the transaction by buying an identical options contract. But the writer will have to pay a higher premium since the options contract will be in-the-money, that is, the holder of the options will make a profit if they are sold at that moment. For the writer though, the options would be out-of-the-money, that is, he will stand to lose if the contract is exercised. Generally, options writing is best done by experienced people who can gauge the amount of risk involved, and avoid getting their fingers burnt.
+
+But main benefit of trading options is, its liquidity and more over saving of valuable money with low STT( securities transaction tax ) which is huge sum in futures.
