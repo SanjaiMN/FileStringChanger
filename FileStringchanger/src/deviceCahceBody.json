@@ -1,0 +1,196 @@
+{
+  "deviceId": "AQAAAAGGLUhN1AAAAAHUBt2C",
+  "lastUpdatedAt": "2022-12-22T08:59:41.741Z",
+  "type": "iot-printer",
+  "identity": {
+    "lastUpdatedAt": "2022-12-22T08:59:39.442Z",
+    "serialNumber": "96Q9RQY6ZB",
+    "deviceUuid": "020aed25-5f94-4e06-808e-0645596c8359",
+    "firmwareVersion": "G2PS-FW",
+    "biosVersion": null,
+    "location": "",
+    "friendlyName": "",
+    "bizModel": "E2E",
+    "benefitsControlModel": "rightToPrint",
+    "platformIdentifier": "gen2Yeti",
+    "programLevel": "",
+    "countryRegion": null,
+    "language": null,
+    "supplyType": "ink",
+    "supplyDelivery": "",
+    "deviceSegment": "SMB",
+    "displayProfile": "class-3",
+    "bleHPSpecVersion": "4",
+    "colorSupported": true,
+    "makeAndModel": {
+      "name": "HP OfficeJet Pro 9020 series",
+      "number": "349U4A",
+      "productId": null,
+      "series": "HP OfficeJet Pro 9010 series",
+      "code": "Manhattan Yeti",
+      "type": null,
+      "manufacturer": null,
+      "sku": null
+    },
+    "misc": null,
+    "connectionType": null,
+    "assetNumber": "",
+    "externalReference": null,
+    "completeIdentityAvailable": false
+  },
+  "tenancy": {
+    "lastUpdatedAt": "2022-12-13T10:11:26.529Z",
+    "fqResourceIdPath": "5c1c2547bf965dee00465a3b/c1a46987-cbd3-45db-b94a-a6544116fc2d/30392eac-a025-40b3-a468-2942e3c7374d"
+  },
+  "timestamp": {
+    "lastUpdatedAt": "2022-12-22T08:59:41.741Z",
+    "lastSeenTime": "2022-12-14T02:59:55.000Z",
+    "lastRegistrationTime": null,
+    "firstRegistrationTime": "2022-12-13T10:09:00.000Z",
+    "lastResetTime": "2022-12-13T10:09:00.000Z",
+    "firmwareDate": null,
+    "claimTime": null,
+    "lastTenantUpdatedTime": "2022-12-13T10:11:26.529Z",
+    "claimRevokeTime": null,
+    "deviceTime": null,
+    "manufactureDate": null,
+    "purchasedDate": null
+  },
+  "network": {
+    "lastUpdatedAt": "2022-12-13T10:11:35.331Z",
+    "adapters": [
+      {
+        "enabled": null,
+        "type": "",
+        "name": "wifi0",
+        "macAddress": "",
+        "hostname": "",
+        "ipv4": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        },
+        "ipv6": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        }
+      },
+      {
+        "enabled": null,
+        "type": "",
+        "name": "wifi1",
+        "macAddress": "",
+        "hostname": "",
+        "ipv4": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        },
+        "ipv6": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        }
+      },
+      {
+        "enabled": null,
+        "type": "",
+        "name": "eth0",
+        "macAddress": "",
+        "hostname": "",
+        "ipv4": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        },
+        "ipv6": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        }
+      },
+      {
+        "enabled": null,
+        "type": "",
+        "name": "eth1",
+        "macAddress": "",
+        "hostname": "",
+        "ipv4": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        },
+        "ipv6": {
+          "enabled": null,
+          "address": {
+            "ip": ""
+          }
+        }
+      },
+      {
+        "enabled": null,
+        "type": "",
+        "name": "usb",
+        "macAddress": null,
+        "hostname": null,
+        "ipv4": null,
+        "ipv6": null
+      }
+    ]
+  },
+  "images": [
+    {
+      "url": "https://devices.us1.api.ws-hp.com/devices/v1/images/ed3501b6134b7aa34363985446a71a5f/42x26.png"
+    },
+    {
+      "url": "https://devices.us1.api.ws-hp.com/devices/v1/images/ed3501b6134b7aa34363985446a71a5f/130x102.png"
+    },
+    {
+      "url": "https://devices.us1.api.ws-hp.com/devices/v1/images/ed3501b6134b7aa34363985446a71a5f/170x128.png"
+    },
+    {
+      "url": "https://devices.us1.api.ws-hp.com/devices/v1/images/ed3501b6134b7aa34363985446a71a5f/300x245.png"
+    }
+  ],
+  "solutions": [],
+  "status": {
+    "lastUpdatedAt": "2022-12-22T08:59:37.679Z",
+    "connectionStateLastUpdatedAt": "2022-12-19T16:32:35.200Z",
+    "connectionState": "offline",
+    "connectionStateCode": 0,
+    "acceptingJobs": true,
+    "printerStateReasons": [
+      "NONE"
+    ],
+    "printerStateSeverity": "NONE",
+    "printerState": "IDLE",
+    "scanState": "NOT_SCANNER",
+    "scanADFState": "NOT_ADF_SCANNER",
+    "powerState": "ACTIVE_NORMAL"
+  },
+  "software": null,
+  "hardware": null,
+  "supplies": {
+    "lastUpdatedAt": "2022-12-13T10:11:31.890Z",
+    "overallLevelStateCode": null,
+    "consumables": []
+  },
+  "solutionConfig": {
+    "cloudShortcutsEnabled": false,
+    "eprintSupported": false,
+    "eprintEmailAddress": "36vp47tw@email.devpie.hpeprint.com",
+    "printOnTheGoSupport": "pullRelease"
+  },
+  "ownership": {
+    "lastUpdatedAt": "2022-12-13T10:11:26.529Z",
+    "accountId": "30392eac-a025-40b3-a468-2942e3c7374d"
+  }
+}

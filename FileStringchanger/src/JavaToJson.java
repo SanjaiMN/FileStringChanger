@@ -3,18 +3,20 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
 import java.io.FileWriter;
-import java.io.IOException;
 
 public class JavaToJson 
 {
-  public static void main(String[] args) throws Exception {
-	 JsonToJava ja=new JsonToJava();
-    Device javaObject = ja.getJsonObject();
+  public static void main(String[] args) throws Exception 
+  {
+	String filepath = "src\\deviceCahceBody.json";
+	JsonToJava ja=new JsonToJava();
+	//
+    Device javaObject = ja.getJsonObject(filepath);
+    System.out.println(javaObject.getIdentity().getBiosVersion());
     javaObject.setDeviceId("AQAAAAGGLUhN1AAAAAHUBt2C");
-    GsonBuilder gsonBuilder = new GsonBuilder();
+    GsonBuilder gsonBuilder = new GsonBuilder().serializeNulls();
     gsonBuilder.setPrettyPrinting();
 
-    // Create a Gson object from the GsonBuilder
     Gson gson = gsonBuilder.create();
 
     // Convert the Java object to a JSON string
