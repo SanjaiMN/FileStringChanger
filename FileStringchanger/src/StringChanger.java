@@ -8,13 +8,13 @@ public class StringChanger {
 	{
 	    try 
 	    {
-	      File file = new File("src\\Filename.txt");
+	      File file = new File("src\\deviceCahceBody.json");
 	      BufferedReader reader = new BufferedReader(new FileReader(file));
 	      Scanner sc = new Scanner(System.in);
 	      String line = "", oldText = "", newText = "A";
-	      System.out.println("Enter the string that needs to be replaced:");
-	      oldText=sc.next();
-	      System.out.println("Enter the new String:");
+//	      System.out.println("Enter the string that needs to be replaced:");
+//	      oldText=sc.next();
+	      System.out.println("Enter the new device id:");
 	      newText=sc.next();
 	      StringBuilder content = new StringBuilder();
 	      while((line = reader.readLine()) != null) {
