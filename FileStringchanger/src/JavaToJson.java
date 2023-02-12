@@ -10,7 +10,7 @@ public class JavaToJson
 {
   public static void main(String[] args) throws Exception 
   {
-	  String filepath = "src\\deviceCahceBody.json";
+	  	String filepath = "src\\deviceCahceBody.json";
 		JsonToJava ja=new JsonToJava();
 		//
 	    Device javaObject = ja.getJsonObject(filepath);

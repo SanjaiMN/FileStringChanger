@@ -12,7 +12,7 @@ public class Device
     private Image[] images;
     private Object[] solutions;
     private Status status;
-    private Object software;
+    private String software;
     private Object hardware;
     private Supplies supplies;
     private SolutionConfig solutionConfig;
@@ -98,11 +98,11 @@ public class Device
 		this.status = status;
 	}
 
-	public Object getSoftware() {
+	public String getSoftware() {
 		return software;
 	}
 
-	public void setSoftware(Object software) {
+	public void setSoftware(String software) {
 		this.software = software;
 	}
 
