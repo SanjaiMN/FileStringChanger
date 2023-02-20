@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="gson-2.8.5.jar"/>
 	<classpathentry kind="lib" path="jackson-core-2.14.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/sanja/Downloads/openjfx-19.0.2.1-javadoc/openjfx-19.0.2.1-javadoc.zip"/>
+	<classpathentry kind="lib" path="C:/Users/sanja/Downloads/gson-2.8.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
